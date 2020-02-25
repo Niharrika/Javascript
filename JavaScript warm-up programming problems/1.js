@@ -1,9 +1,9 @@
-function square(a) {
-if (num%2==0){
+function isEven(a) {
+if (a%2==0){
 	console.log("True")
 }
 else {
 	console.log("False")
 }
 }
-square(11);
+isEven(11);
