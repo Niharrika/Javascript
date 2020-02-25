@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<head> </head>
-<body>
-<script>
 function getLastElement (a){
 console.log(a.slice(-1)[0]);
 }
 getLastElement([2,3,6,7]);
-</script>
-</body>
-</html>
