@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head> </head>
-<body>
-<script>
 function isSameLength (a,b){
 if ((a.length)==(b.length)){
 	console.log("true");
@@ -12,6 +7,3 @@ else{
 	}
 }
 isSameLength('GUVI','GEEK')
-</script>
-</body>
-</html>
