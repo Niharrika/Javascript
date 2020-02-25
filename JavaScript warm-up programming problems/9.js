@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<head></head>
-<body>
-<script>
 function addProperty(obj,key){
     obj[key]="True"
     console.log(obj)
@@ -10,6 +6,3 @@ function addProperty(obj,key){
 var myObj={ };
 
 addProperty(myObj, "myproperty");
-</script>
-</body>
-<html>
