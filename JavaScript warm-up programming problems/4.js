@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<head> </head>
-<body>
-<script>
 function getLengthOfWord(a){
 var l = a.length;
 console.log(l);
 }
 getLengthOfWord('GUVI');
-</script>
-</body>
-</html>
