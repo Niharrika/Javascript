@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<head></head>
-<body>
-<script>
 function getFullName(a,b) {
 console.log(a+' '+b)
 }
 getFullName('GUVI','GEEK');
-</script>
-</body>
-</html>
