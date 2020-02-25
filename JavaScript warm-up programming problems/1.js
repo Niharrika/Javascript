@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<head></head>
-<body>
-<script>
 function square(a) {
 if (num%2==0){
 	console.log("True")
@@ -11,6 +7,3 @@ else {
 }
 }
 square(11);
-</script>
-</body>
-</html>
